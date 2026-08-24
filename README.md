@@ -9,5 +9,4 @@ I have been in IT for 7+ years, and these days use Github to learn Infrastructur
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=awsvad&theme=tokyonight-duo" alt="GitHub streak" />
-</p>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=awsvad&theme=tokyonight-duo" alt="GitHub Streak" /></a>
